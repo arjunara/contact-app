@@ -1,8 +1,14 @@
-# Getting Started with Create React App
+# React Redux Contact application
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+
+## About this project
+
+It is a React Redux toolkit contact application created for practising redux toolkit basics. 
+In this project User can Add Contact, Delete Contact, Edit Contact 
+without data duplication, form validation with toast library.
 
 In the project directory, you can run:
 
